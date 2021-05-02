@@ -6,11 +6,20 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #393939;
-  color: #d9d9d9;
+  color: var(--color);
 
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+:root{
+  --color: #d9d9d9;
+  --inputTextColor: #00FF00;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh
 }

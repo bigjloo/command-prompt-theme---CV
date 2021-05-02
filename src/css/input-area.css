@@ -1,3 +1,26 @@
-#flashing_input{
-    
+@import url('../index.css');
+
+
+.user-input-box{
+    background-color:black;
+    opacity: 1;
+    color: var(--inputTextColor);
+}
+
+.no-outline{
+    outline: none;
+    border: none
+}
+
+table td {
+    border: 1px dotted gray
+}
+
+table {
+    border-style: hidden;
+    border-collapse: collapse;
+}
+
+form {
+    display: inline
 }

@@ -1,6 +1,8 @@
 import React from 'react'
 import Contact from './contact'
 import ContentArea from './content-area'
+import InputArea from './input-area'
+import '../css/wrapper.css'
 
 class Terminal extends React.Component{
     constructor(props){
@@ -12,9 +14,10 @@ class Terminal extends React.Component{
 
     render(){
         return (
-            <div>
+            <div className="wrapper">
                 <Contact />
                 <ContentArea />
+                <InputArea />
             </div>
         )
     }
