@@ -5,9 +5,12 @@ class Contact extends React.Component{
     render(){
         return(
             <div className="contact">
-                <p>JLoo<br />
-                junzhongloo@gmail.com<br />
-                copyright</p>
+                <p>
+                    Jay Loo<br />
+                    junzhongloo@gmail.com<br />
+                    Auckland, New Zealand
+                </p>
+                
             </div>
         )
     }

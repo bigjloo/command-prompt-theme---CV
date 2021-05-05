@@ -5,6 +5,7 @@
     background-color:black;
     opacity: 1;
     color: var(--inputTextColor);
+    font-family: "Cascadia Code";
 }
 
 .no-outline{

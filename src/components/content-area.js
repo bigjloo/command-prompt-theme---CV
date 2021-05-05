@@ -5,18 +5,19 @@ class ContentArea extends React.Component{
     constructor(props){
         super(props);
         this.state = {
-            content: 'Type:<Br /> <table><tr><td>--work</td><td>work description</td></tr><tr><td>--education</td><td>education history</td></tr></table>',
+            content: this.props.content,
         }
     }
-
+    /*
     componentDidMount(){
         document.getElementById('content').innerHTML = this.state.content
     }
+    */
 
     render(){
         return(
             <div className='content-area'>
-                <p id="content"></p>
+                <p id="content">{this.state.content}</p>
             </div>
         )
     }

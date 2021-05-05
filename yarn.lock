@@ -4998,6 +4998,11 @@ follow-redirects@^1.0.0:
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.13.2.tgz#dd73c8effc12728ba5cf4259d760ea5fb83e3147"
   integrity sha512-6mPTgLxYm3r6Bkkg0vNM0HTjfGrOEtsfbhagQvbxDEsEkpNhw582upBaoRZylzen6krEmxXJgt9Ju6HiI4O7BA==
 
+fontsource-cascadia-code@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/fontsource-cascadia-code/-/fontsource-cascadia-code-4.0.0.tgz#fb98f4c687f98bb8bda55057ea885c5fb143e1e5"
+  integrity sha512-UbXh5MSbdJKaRHUWikeFC7w4ifg5riEUp0LM9to1KnH6PbxXNB4A6B74GADaFWZwo3wifDnWbBszau0dV/WcYQ==
+
 for-in@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/for-in/-/for-in-1.0.2.tgz#81068d295a8142ec0ac726c6e2200c30fb6d5e80"
