@@ -5,15 +5,10 @@ Terminal theme about me personal page
 Terminal like user interactive personal page
 Design from the users perspective
 
-## Action Steps:
-* discovery - user journey
-* planning - sitemap
-* design
-* develop
-* testing
+![gif-of-terminal](./terminal.gif.gif)
 
-
-## User stories
-
-## wireframe design
+## To be added:
+- links to social media
+- email link
+- leave a message form
 
