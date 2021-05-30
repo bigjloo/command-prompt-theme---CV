@@ -5,7 +5,7 @@ Terminal theme about me personal page
 Terminal like user interactive personal page
 Design from the users perspective
 
-![gif-of-terminal](./terminal.gif.gif)
+![gif-of-terminal](./terminal.gif)
 
 ## To be added:
 - links to social media
