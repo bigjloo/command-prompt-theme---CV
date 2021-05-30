@@ -1,9 +1,5 @@
-# about_me_terminal
-Terminal theme about me personal page
-
-## Idea
-Terminal like user interactive personal page
-Design from the users perspective
+# Terminal Theme CV
+Terminal theme online CV 
 
 ![gif-of-terminal](./terminal.gif)
 
