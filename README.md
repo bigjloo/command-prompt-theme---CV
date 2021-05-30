@@ -1,5 +1,5 @@
 # about_me_terminal
-UNIX terminal theme about me personal page
+Terminal theme about me personal page
 
 ## Idea
 Terminal like user interactive personal page
